@@ -2,7 +2,6 @@ cask 'font-bebas-neue-pro' do
   version "1.000"
   sha256 "6b25d70fa15b9f13f7d2710d2be97492ce3d1190bf5baa665641c84ff4d4a4bb"
 
-  # url "file://#{ENV['HOMEBREW_PREFIX']}/Homebrew/Library/Taps/alejakun/homebrew-cask-fonts/Fonts/BebasNeuePro.zip"
   url "https://#{ENV['HOMEBREW_GITHUB_API_TOKEN']}@raw.githubusercontent.com/alejakun/homebrew-cask-assets/master/Fonts/BebasNeuePro.zip"
   name "Bebas Neue Pro"
   homepage "https://dharmatype.com/bebas-neue-pro"

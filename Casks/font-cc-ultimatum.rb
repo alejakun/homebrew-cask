@@ -2,7 +2,6 @@ cask 'font-cc-ultimatum' do
   version "1.0"
   sha256 "284eb0da2264f011537d7ac373c1e166d01c5588e092620c4c8e6bedc2cb421b"
 
-  # url "file://#{ENV['HOMEBREW_PREFIX']}/Homebrew/Library/Taps/alejakun/homebrew-cask-fonts/Fonts/ultimatum.zip"
   url "https://#{ENV['HOMEBREW_GITHUB_API_TOKEN']}@raw.githubusercontent.com/alejakun/homebrew-cask-assets/master/Fonts/ultimatum.zip"
   name "CC Ultimatum"
   homepage "https://www.comicbookfonts.com/Ultimatum-p/dl283.htm"

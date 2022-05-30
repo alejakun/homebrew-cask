@@ -2,7 +2,6 @@ cask 'font-top-secret' do
   version "1.0"
   sha256 "de2fefea11f5b8923b8829f627a447266ca4e8f7642a3cf0c73c167a197ccece"
 
-  # url "file://#{ENV['HOMEBREW_PREFIX']}/Homebrew/Library/Taps/alejakun/homebrew-cask-fonts/Fonts/_top_secret.zip"
   url "https://#{ENV['HOMEBREW_GITHUB_API_TOKEN']}@raw.githubusercontent.com/alejakun/homebrew-cask-assets/master/Fonts/_top_secret.zip"
   name "[TOP_SECRET]"
   homepage "https://www.dafont.com/-top-secret.font"
