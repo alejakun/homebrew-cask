@@ -2,7 +2,7 @@ cask 'font-gotham' do
   version "001.000"
   sha256 "45d69f19dc95187e7ae35e243e0596b4232ddd0fa0aa08ddc46ff929d1410ad2"
 
-  url "https://#{ENV['HOMEBREW_GITHUB_API_TOKEN']}@raw.githubusercontent.com/alejakun/homebrew-cask-assets/master/Fonts/Gotham-Font.zip"
+  url "https://#{ENV['HOMEBREW_GITHUB_API_TOKEN']}@raw.githubusercontent.com/alejakun/homebrew-cask-assets/master/Fonts/General/gotham.zip"
   name "Gotham"
   homepage "https://www.fontreach.com/gotham-font-free-download/"
 

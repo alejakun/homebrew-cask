@@ -2,7 +2,7 @@ cask 'font-benton-sans' do
   version "1.000"
   sha256 "a7c481dda4be16203f578abb97bf790180aa658e2ed39f85e62cdb423ad50c5d"
 
-  url "https://#{ENV['HOMEBREW_GITHUB_API_TOKEN']}@raw.githubusercontent.com/alejakun/homebrew-cask-assets/master/Fonts/Benton-Sans.zip"
+  url "https://#{ENV['HOMEBREW_GITHUB_API_TOKEN']}@raw.githubusercontent.com/alejakun/homebrew-cask-assets/master/Fonts/General/benton-sans.zip"
   name "BentonSans"
   homepage "https://www.fontreach.com/benton-sans-font-free-download/"
 

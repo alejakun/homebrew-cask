@@ -2,7 +2,7 @@ cask 'font-ff-good-pro-cond' do
   version "7.504"
   sha256 "55334e9acb2c18ae2b8f0efa979c67db0db3d3cc27a9533e561d1b719010be2f"
 
-  url "https://#{ENV['HOMEBREW_GITHUB_API_TOKEN']}@raw.githubusercontent.com/alejakun/homebrew-cask-assets/master/Fonts/FF-Good-Pro-Cond.zip"
+  url "https://#{ENV['HOMEBREW_GITHUB_API_TOKEN']}@raw.githubusercontent.com/alejakun/homebrew-cask-assets/master/Fonts/General/ff-good-pro-cond.zip"
   name "FF Good Pro Cond"
   homepage "https://fontshub.pro/font/ff-good-pro-download"
 
