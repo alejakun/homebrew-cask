@@ -1,4 +1,5 @@
-private
+# Project Files/Dirs
+
 
 # Git credential file
 .gitconfig.local
