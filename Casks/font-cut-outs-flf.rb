@@ -4,7 +4,7 @@ cask 'font-CutOutsFLF' do
 
   url "https://#{ENV['HOMEBREW_GITHUB_API_TOKEN']}@raw.githubusercontent.com/alejakun/homebrew-cask-assets/master/Fonts/General/cut-outs-flf.zip"
   name "CutOutsFLF"
-  homepage ""
+  homepage "https://www.fontspace.com/cutoutsflf-font-f1214"
 
   font "CutOutsFLF.ttf"
 end
